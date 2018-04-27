@@ -1,0 +1,43 @@
+section.discat
+{
+    visibility: hidden;
+    display: block;
+    overflow: auto;
+}
+
+section.addprod
+{
+    visibility: hidden;
+    display: block;
+    overflow: auto;
+    width: 600px;
+}
+
+section.chgdesc
+{
+    visibility: hidden;
+    display: block;
+    overflow: auto;
+    width: 600px;
+}
+
+section.delcat
+{
+    visibility: hidden;
+    display: block;
+    overflow: auto;
+    width: 600px;
+}
+
+section.about
+{
+    visibility: hidden;
+    display: block;
+    overflow: auto;
+    width: 600px;
+}
+
+h1
+{
+    text-align: center;
+}
